@@ -1,4 +1,4 @@
-package easy;
+package easy.Random_Problems;
 
 public class CheckIfTwoStringArraysAreEquivalent {
      static boolean arrayStringsAreEqual(String[] word1, String[] word2) {

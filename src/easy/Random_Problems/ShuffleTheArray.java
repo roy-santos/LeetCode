@@ -1,4 +1,4 @@
-package easy;
+package easy.Random_Problems;
 
 import java.util.Arrays;
 
